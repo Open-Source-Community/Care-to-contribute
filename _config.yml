@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Care to Contribute ?]
+description: [A simple github repo for demo purpose of git workshop.]
