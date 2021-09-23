@@ -7,25 +7,25 @@
 
 1. Fork the repository
 2. Clone your version of the repository into your local system
-   ```bash
+  ```bash
    git clone https://github.com/<your-username>/Care-to-contribute.git
   ```
-4. Open [index.md](index.md) file
+3. Open [index.md](index.md) file
   ```bash
    cd Care-to-contribute
    nano index.md
   ```
-5. Add your name to the list
-6. Add your changes
+4. Add your name to the list
+5. Add your changes
   ```bash
    git add .
   ```
-7. commit your changes to your local repository
+6. commit your changes to your local repository
   ```bash
    git commit -m "<your-name>
   ```
-8. Push your changes to the remote repository
+7. Push your changes to the remote repository
   ```bash
    git push origin master
   ```
-9. Create a pull request
+8. Create a pull request
