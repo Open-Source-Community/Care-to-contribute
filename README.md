@@ -22,7 +22,7 @@
   ```
 6. commit your changes to your local repository
   ```bash
-   git commit -m "<your-name>
+   git commit -m "<your-name>"
   ```
 7. Push your changes to the remote repository
   ```bash
