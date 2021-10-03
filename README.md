@@ -1,5 +1,7 @@
 # [Care-to-contribute ?](https://open-source-community.github.io/Care-to-contribute/)
 [Live Website](https://open-source-community.github.io/Care-to-contribute/)
+** DISCLAIMER : PULL REQUESTS TO THIS REPOSITORY WILL NOT COUNT IN HACKTOBERFEST, THIS IS JUST A DEMO REPO. **
+
 
 > Repo for git workshop practice.
 
