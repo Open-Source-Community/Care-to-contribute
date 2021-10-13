@@ -4,5 +4,5 @@
 
 - [Ahmed Ayman](https://a7medayman6.github.io/)
 - [Ramy Gamal](https://www.raamyy.tech)
-- [Mazen Saad](github.com/mazzensaadd)
+- [Mazen Saad](https://github.com/mazzensaadd)
 - [Xeina Tamer](https://www.linkedin.com/xeina-fouad)
